@@ -1,0 +1,32 @@
+{
+  "name": "init",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.5.4",
+    "autoprefixer": "^10.1.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.0-beta1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-handlebars": "^5.2.0",
+    "hbs": "^4.1.1",
+    "http-errors": "~1.6.3",
+    "lodash": "^4.17.20",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.7",
+    "morgan": "~1.9.1",
+    "node-sass-middleware": "^0.11.0",
+    "nodemon": "^2.0.6",
+    "nunjucks": "^3.2.2",
+    "postcss": "^8.2.1",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^2.0.2",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}

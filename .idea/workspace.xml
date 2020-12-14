@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c570f0d0-77ec-4310-bf02-663088e899e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1lWEXL623rAEhGbwNrfBMUtqCWE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.48" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\express\init" />
+      <recent name="C:\xampp\htdocs\express\init\views\pages" />
+      <recent name="C:\xampp\htdocs\express\init\public\vendor" />
+      <recent name="C:\xampp\htdocs\express\init\views\partials" />
+      <recent name="C:\xampp\htdocs\express\init\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\express\init\views\layouts" />
+      <recent name="C:\xampp\htdocs\express\init\views" />
+      <recent name="C:\xampp\htdocs\express\init\views\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c570f0d0-77ec-4310-bf02-663088e899e3" name="Default Changelist" comment="" />
+      <created>1607704490076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607704490076</updated>
+      <workItem from="1607704491306" duration="366000" />
+      <workItem from="1607705824692" duration="7511000" />
+      <workItem from="1607753284981" duration="13038000" />
+      <workItem from="1607872545809" duration="10249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="218" key="#Other_File_Types" timestamp="1607754835952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="515" y="218" key="#Other_File_Types/0.0.1366.728@0.0.1366.728" timestamp="1607754835952" />
+    <state x="404" y="161" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607794869375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="161" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1607794869375" />
+    <state x="351" y="142" key="EditFileWatcherDialog" timestamp="1607753497826">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="351" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1607753497826" />
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1607914985123">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607914985123" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1607914985122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607914985122" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1607914985093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607914985093" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1607914985122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607914985122" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1607704895741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607704895741" />
+    <state x="389" y="0" width="587" height="728" key="find.popup" timestamp="1607708055686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" width="587" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1607708055686" />
+  </component>
+</project>

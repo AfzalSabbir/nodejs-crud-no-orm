@@ -1,0 +1,29 @@
+<h1 class="my-3">{{title}}</h1>
+<form action="/post" method="post">
+    <label for="title">Title</label><input required="" type="text" name="title" id="title" class="form-control">
+    <label for="description">Description</label><textarea required="" name="description" id="description" cols="30"
+                                                          rows="5" class="form-control"></textarea>
+    <input type="submit" class="btn btn-success" value="Save">
+</form>
+<hr/>
+<div class="card">
+    <div class="card-body">
+        <table class="table table-bordered table-hover">
+            <thead>
+            <tr>
+                <th>#</th>
+                <th>Title</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <each></each>
+            <tr>
+                <td>#</td>
+                <td>Title</td>
+                <td>Description</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
